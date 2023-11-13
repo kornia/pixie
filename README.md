@@ -1,4 +1,4 @@
-# 🌟 Pixie: The Computer Vision Engineer AI assistance 🤖
+# 🌟 Pixie: Computer Vision Engineer AI assistance 🤖
 
 ![pixie](https://github.com/kornia/data/blob/main/pixie_banner.png?raw=true)
 
