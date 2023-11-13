@@ -7,3 +7,6 @@
 - Learning OpenCV, Gary Bradski, Adrian Kaehler.
 - Multi View Geometry, Richard Hartley and Andrew Zisserman.
 - Robotics Vision and Control, Peter Corker.
+
+## Repos
+- [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
